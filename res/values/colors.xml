@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+		<color name="Ivory" 		>#FFFFF0</color>
+		<color name="Beige" 		>#F5F5DC</color>
+		<color name="Wheat" 		>#F5DEB3</color>
+		<color name="Tan"	 		>#D2B48C</color>
+		<color name="Khaki" 		>#C3B091</color>
+		<color name="Silver" 		>#C0C0C0</color>
+		<color name="Gray" 		>#808080</color>
+		<color name="Charcoal" >#464646</color>
+		<color name="Navy" >#000080</color>
+		<color name="Royal">#084C9E</color>
+		<color name="Cyan" 		>#00FFFF</color>
+		<color name="Aquamarine">#7FFFD4</color>
+		<color name="Teal" 		>#008080</color>
+		<color name="Forest">#228B22</color>
+		<color name="Olive" 		>#808000</color>
+		<color name="Chartreuse">#7FFF00</color>
+		<color name="Lime" 		>#BFFF00</color>
+		<color name="Golden" 		>#FFD700</color>
+		<color name="Goldenrod" >#DAA520</color>
+		<color name="Coral" 		>#FF7F50</color>
+		<color name="Salmon" 		>#FA8072</color>
+		<color name="Hot" >#FC0FC0</color>
+		<color name="Fuchsia"	 >#FF77FF</color>
+		<color name="Puce" 		>#CC8899</color>
+		<color name="Mauve" 		>#E0B0FF</color>
+		<color name="Lavender" >#B57EDC</color>
+		<color name="Plum" 		>#843179</color>
+		<color name="Indigo" 		>#4B0082</color>
+		<color name="Maroon"	 >#800000</color>
+		<color name="Crimson"	 >#DC143C</color>
+</resources>
